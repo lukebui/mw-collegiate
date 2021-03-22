@@ -1,6 +1,6 @@
 {
   "name": "mw-collegiate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package provides type definitions and html output for entries retrieved from Merriam Webster's Collegiate Dictionary API.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
